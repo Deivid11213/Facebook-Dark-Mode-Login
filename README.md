@@ -25,7 +25,9 @@ yarn start
 
 # La aplicación ahora debería estar ejecutándose en http://localhost:3000.
 
-# Aquí tienes las redes sociales con los emojis e iconos correspondientes:
+# Aquí tienes mis redes sociales :)
+
+## ¡No dudes en seguirme en estas redes sociales y estaré encantado de conectarme contigo!
 
 📘 Facebook: facebook.com/tu-pagina
 🐦 Twitter: twitter.com
@@ -33,4 +35,4 @@ yarn start
 💼 LinkedIn: linkedin.com
 📘 Facebook: facebook.com/davichomiranda182
 
-¡No dudes en seguirme en estas redes sociales y estaré encantado de conectarme contigo!
+

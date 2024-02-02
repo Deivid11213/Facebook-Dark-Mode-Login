@@ -12,20 +12,16 @@ Para ejecutar la aplicación localmente, sigue estos pasos:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-nombre-de-usuario/tu-repo.git
+   git clone https://github.com/Deivid11213/Facebook-Dark-Mode-Login.git
 
 # Navega hasta el directorio del proyecto:
+cd Facebook-Dark-Mode-Login
 
-
-cd tu-repo
 Instala las dependencias:
-
 yarn install
 
 # Inicia el servidor de desarrollo:
-
 yarn start
-
 
 # La aplicación ahora debería estar ejecutándose en http://localhost:3000.
 

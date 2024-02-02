@@ -25,14 +25,11 @@ yarn start
 
 # La aplicación ahora debería estar ejecutándose en http://localhost:3000.
 
-# Aquí tienes mis redes sociales :)
+# Sígueme en mis redes sociales
+Twitter: https://www.twitter.com Twitter 🐦
 
-## ¡No dudes en seguirme en estas redes sociales y estaré encantado de conectarme contigo!
+Instagram: https://www.instagram.com/deivid_gm25/ Instagram 📷
 
-📘 Facebook: facebook.com/tu-pagina
-🐦 Twitter: twitter.com
-📸 Instagram: @deivid_gm25
-💼 LinkedIn: linkedin.com
-📘 Facebook: facebook.com/davichomiranda182
+GitHub: https://https://github.com/Deivid11213 GitHub 💻
 
 
